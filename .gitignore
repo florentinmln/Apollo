@@ -1,0 +1,5 @@
+# C object files
+*.o
+slamware_sdk_linux-x86_64-gcc5.4/linux-86_64-debug/
+slamware_sdk_linux-x86_64-gcc5.4/linux-86_64-release/
+*.zip
